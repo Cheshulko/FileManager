@@ -1,0 +1,3 @@
+C:\Other\Projects\Manager2\Manager2\bin\Debug\Manager2.exe.config
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.exe
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.pdb

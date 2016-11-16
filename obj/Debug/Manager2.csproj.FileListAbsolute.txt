@@ -1,0 +1,52 @@
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\bin\Debug\Manager2.exe.config
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\bin\Debug\Manager2.exe
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\bin\Debug\Manager2.pdb
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.csprojResolveAssemblyReference.cache
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.Form1.resources
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.exe
+c:\users\nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.pdb
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.TextPad.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\bin\Debug\en-US\Manager2.resources.dll
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.Form1.en-US.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\en-US\Manager2.resources.dll
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.TextPad.en-US.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.MyStrings.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.MyStrings.en-US.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.DividePartAskForm.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.changeStringForm.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.changeStringForm.en-US.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.DividePartAskForm.en-US.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.RenameForm.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\bin\Debug\en-SG\Manager2.resources.dll
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.Form1.en-SG.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\en-SG\Manager2.resources.dll
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.FindSimilarWordsForm.resources
+C:\Users\Nikita\documents\visual studio 2013\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.FindSimilarWordsForm.en-US.resources
+C:\Other\Projects\Manager2\Manager2\bin\Debug\Manager2.exe.config
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.exe
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.pdb
+C:\Other\Projects\Manager2\Manager2\bin\Debug\Manager2.exe
+C:\Other\Projects\Manager2\Manager2\bin\Debug\Manager2.pdb
+C:\Other\Projects\Manager2\Manager2\bin\Debug\en-SG\Manager2.resources.dll
+C:\Other\Projects\Manager2\Manager2\bin\Debug\en-US\Manager2.resources.dll
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.csprojResolveAssemblyReference.cache
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.changeStringForm.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.DividePartAskForm.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.Form1.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.FindSimilarWordsForm.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.RenameForm.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.MyStrings.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.Properties.Resources.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.TextPad.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.Form1.en-SG.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.changeStringForm.en-US.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.DividePartAskForm.en-US.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.Form1.en-US.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.HelpForms.FindSimilarWordsForm.en-US.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.MyStrings.en-US.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.TextPad.en-US.resources
+C:\Other\Projects\Manager2\Manager2\obj\Debug\Manager2.csproj.GenerateResource.Cache
+C:\Other\Projects\Manager2\Manager2\obj\Debug\en-SG\Manager2.resources.dll
+C:\Other\Projects\Manager2\Manager2\obj\Debug\en-US\Manager2.resources.dll
